@@ -29,4 +29,4 @@ Project Report:
      However, due to lack of one team member and short summer term, we are only able to implement the first two functions. If we want to make the application fully functional,          the rest three functions must be implemented. This small project serves as a demonstration of design patterns.
 	We used two design patterns: Factory Pattern and Decorator Pattern. We used Factory Pattern to create a pizza store, and the store can create different pizza at runtime.  	This disign pattern allows we create different stores that serve different pizza without write new store classes for each store. We used Decorator Pattern to allow add-ons to 	    the base pizza. The Decorator Pattern enable us to add more add-ons without modifying the pizza classes, which makes the program more maintainable. 
 	
-	![Image of output](output.png)
+	![Image of output](https://github.com/willierzhang/CS100FinalProject/output.png)
